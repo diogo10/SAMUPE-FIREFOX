@@ -1,0 +1,31 @@
+{
+	"version": "0.1",
+	"name": "SAMUPE",
+	"description": "Descrição do seu aplicativo",
+	"icons": {
+		"16": "samupe/img/icons/mortar-16.png",
+		"48": "samupe/img/icons/mortar-48.png",
+		"60": "samupe/img/icons/mortar-60.png",
+		"128": "samupe/img/icons/mortar-128.png"
+	},
+	"developer": {
+		"name": "Paulo Luiz Gomes da Silva",
+		"url": "http://www.linkedin.com/in/pauloluizgomes"
+	},
+	"installs_allowed_from": ["*"],
+	"locales": {
+		"es": {
+			"description": "Su nueva aplicacin impresionante Open Web",
+			"developer": {
+				"url": "http://www.linkedin.com/in/pauloluizgomes"
+			}
+		},
+		"it": {
+			"description": "Il vostro nuovo fantastico Open Web App",
+			"developer": {
+				"url": "http://www.linkedin.com/in/pauloluizgomes"
+			}
+		}
+	},
+	"default_locale": "en"
+}

@@ -1,0 +1,41 @@
+html body  { padding-top: 0; width: 100%; margin: 0;  background-color: #5e71db;  }
+
+legend { color:#fff; }
+
+h3 { font-size: 22px; }
+
+.container-fluid{ width: 220px; }
+
+.btn-toolbar { margin-left: 20px;  }
+
+.btlong{ width: 520px; }
+
+.formLogin{ width: 100%; margin-top: 10px; background-color: #fff; border-radius: 10px; padding: 20px; box-shadow: 5px 7px 8px #552E9B; }
+
+.navbar .btn-group .btn, .navbar .input-prepend .btn, .navbar .input-append .btn { margin-top: 0; width: 40px; height: 20px; }
+
+.menutop { width: 261px; }
+
+.navbar-fixed-bottom {  width: 100%; background-color: #fff; margin: 50px 0px 0px 0px; background-color: #fff; height: 199px; }
+
+.navbar-fixed-bottom img{ margin-left: 10px; margin-left: 70px; }
+
+.container-fluid ul{ width: 100%;  list-style:none; height: auto; margin-top: 20px; }
+
+.media:first-child { margin-top: 0;  width: 100%; }
+
+.media .pull-left .media .pull-right { display: block; float: left; margin-bottom: 10px; }
+
+.amigos{ width: 100%; }
+
+.amigos ul{ width: 260px; margin: 0;  }
+
+.amigos ul li { width: 230px; background-color: #fff; margin: 10px 0px 0px 0px; border-radius: 10px; padding: 10px; box-shadow: 5px 7px 8px #552E9B;  }
+
+.amigos ul li h2 { font-size: 18px; float: left; margin-left: 5px; height: 50px; }
+
+.amigos ul li img { float: left; }
+
+
+
+
